@@ -2,7 +2,7 @@ namespace HelloWorld;
 
 class ProgramText
 {
-    static void Main(string[] args)
+    static void Main2(string[] args)
     {
 
         string name = "Aba";
