@@ -1,0 +1,15 @@
+E:\Projects\C# bootcamp\MyFirstProject\bin\Debug\net7.0\MyFirstProject.exe
+E:\Projects\C# bootcamp\MyFirstProject\bin\Debug\net7.0\MyFirstProject.deps.json
+E:\Projects\C# bootcamp\MyFirstProject\bin\Debug\net7.0\MyFirstProject.runtimeconfig.json
+E:\Projects\C# bootcamp\MyFirstProject\bin\Debug\net7.0\MyFirstProject.dll
+E:\Projects\C# bootcamp\MyFirstProject\bin\Debug\net7.0\MyFirstProject.pdb
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.csproj.AssemblyReference.cache
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfoInputs.cache
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfo.cs
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.dll
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\refint\MyFirstProject.dll
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.pdb
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\MyFirstProject.genruntimeconfig.cache
+E:\Projects\C# bootcamp\MyFirstProject\obj\Debug\net7.0\ref\MyFirstProject.dll
